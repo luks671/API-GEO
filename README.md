@@ -8,3 +8,5 @@ Persistencia --> Realiza el mapeamiento de datos que utilizara la Api Geo
 Entity --> Contiene las entidades de la BD
 
 API GEO --> Proyecto con los endpoint de creación y consulta
+
+La base de datos no esta normalizada por fines practicos
