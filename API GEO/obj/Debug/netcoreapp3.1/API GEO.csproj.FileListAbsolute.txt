@@ -1,0 +1,56 @@
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\API GEO.exe
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\API GEO.deps.json
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\API GEO.runtimeconfig.json
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\API GEO.runtimeconfig.dev.json
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\API GEO.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\API GEO.pdb
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\API GEO.csprojAssemblyReference.cache
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\API GEO.AssemblyInfoInputs.cache
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\API GEO.AssemblyInfo.cs
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\API GEO.csproj.CoreCompileInputs.cache
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\API GEO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\staticwebassets\API GEO.StaticWebAssets.Manifest.cache
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\staticwebassets\API GEO.StaticWebAssets.xml
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\scopedcss\bundle\API GEO.styles.css
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\API GEO.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\API GEO.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\API GEO.pdb
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\API GEO.genruntimeconfig.cache
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\obj\Debug\netcoreapp3.1\API GEO.csproj.CopyComplete
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\OAuth.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\OsmSharp.IO.API.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\OsmSharp.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\protobuf-net.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Lucas y Euge\Documents\proyectos\andreani\API GEO\API GEO\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
